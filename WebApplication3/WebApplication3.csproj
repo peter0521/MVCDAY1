@@ -73,6 +73,7 @@
   <ItemGroup>
     <Folder Include="NewFolder1\" />
     <Folder Include="NewFolder2\" />
+    <Folder Include="NewFolder3\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
